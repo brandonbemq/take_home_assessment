@@ -8,9 +8,9 @@ This repository fulfills the requirements for Part 3 of the QA Engineer Assessme
 Ensure you have Node.js and Git installed on your machine.
 
 ### Installation
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine:
     `git clone https://github.com/brandonbemq/take_home_assessment.git`
-2. Navigate to the project directory.
+2. Navigate to the project directory:
     `cd take_home_assessment`
 3. Install project dependencies:
     `npm install`
