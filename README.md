@@ -5,11 +5,13 @@ This repository fulfills the requirements for Part 3 of the QA Engineer Assessme
 ## Getting Started
 
 ### Prerequisites
-Ensure you have Node.js installed on your machine.
+Ensure you have Node.js and Git installed on your machine.
 
 ### Installation
 1. Clone this repository to your local machine.
+    `git clone https://github.com/brandonbemq/take_home_assessment.git`
 2. Navigate to the project directory.
+    `cd take_home_assessment`
 3. Install project dependencies:
     `npm install`
 4. Install the required Playwright browser binaries:
@@ -18,7 +20,7 @@ Ensure you have Node.js installed on your machine.
 ### Optional VS Code Setup
 VS Code is a helpful IDE used to write Playwright. If you wish to run the tests in VS Code, follow the steps below:
 1. Download VS Code for free on Linux, Mac, or Windows.
-2. Launch .exe file to begin installation.
+2. Install and launch VS Code using the installer appropriate for your operating system.
 3. Once VS Code is installed and running, click the Extensions button on the left-side panel.
 4. Install the Playwright Test for VS Code extension by Microsoft
 
