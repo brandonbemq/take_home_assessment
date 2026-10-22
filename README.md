@@ -1,4 +1,4 @@
-# Playwright Automation Assessment
+# Playwright Test Automation
 
 This repository contains automation tests built using Playwright
 
