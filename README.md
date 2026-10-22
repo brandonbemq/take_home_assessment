@@ -1,6 +1,6 @@
 # Playwright Automation Assessment
 
-This repository fulfills the requirements for Part 3 of the QA Engineer Assessment at Reveal and contains automation tests built using Playwright
+This repository contains automation tests built using Playwright
 
 ## Getting Started
 
